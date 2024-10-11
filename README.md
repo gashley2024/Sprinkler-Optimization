@@ -1,2 +1,2 @@
 # Sprinkler Optimization
- Optimizing sprinkler placement in my lawn to minimize dry spots and water usage. Feel free to download the notebook and change the yard dimensions / sprinkler range to fit your own setup!
+This project focuses on optimizing sprinkler placement in a yard to minimize dry spots using geometric optimization techniques. By applying scipy.optimize with constraints based on yard dimensions, sprinkler coverage, and the minimum distance between sprinklers, the model determines optimal positions for sprinklers. The goal is to ensure efficient water distribution, reduce dry patches, and avoid water waste by staying within the yard's boundaries.
